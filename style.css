@@ -1,0 +1,30 @@
+* {
+    text-align: center;
+}
+
+.heading {
+    font-family: "Comic Sans MS";
+    margin-top: 50px;
+    color: #069420;
+}
+
+.lets-gooo {
+    padding: 5px;
+    font-size: 14pt;
+    background: #5cb0ff;
+}
+
+.vid-link {
+    font-size: 14pt;
+    width: 600px;
+    border: 5px solid #069420;
+}
+
+.vid-link:focus {
+    border: 5px double #5cb0ff;
+}
+
+.TOS {
+    color: #5cb0ff;
+    padding-top: 30px;
+}
